@@ -18,6 +18,8 @@
   ## Description
   A budget tracker application that has been updated to allow for offline access and functionality: https://enigmatic-sierra-81895.herokuapp.com/
   
+  <img src="https://github.com/ccd330/money-manager/blob/main/Image1.png" />
+  
   ## Installation Instructions
   Ensure Node.js is installed.
 
